@@ -1,0 +1,35 @@
+.serv{
+
+    position: relative;
+    left: 500px;
+    border: black;
+    width: 600px;
+    height: 150px;
+}
+
+
+
+.contenedor_principal{
+    width:1024px;
+    height:auto;
+    position:relative;
+    margin:auto;
+    }
+    .contenedor_imagen_texto{
+    width:335px;
+    height:auto;
+    position:relative;
+    display:inline-block;
+    vertical-align:top;
+    overflow:hidden;
+    }
+    .imagen, .texto{
+    width:100%;
+    height:auto;
+    position:relative;
+    display:inline;
+    }
+    .texto{
+    height:auto;
+    text-align:center
+}

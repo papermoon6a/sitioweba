@@ -1,0 +1,50 @@
+.img_1{
+position: inherit;
+    width: 1500px; 
+    height: 400px; 
+    top: 0px;
+    left: 0px;
+}
+
+.letra_1{
+position:relative;
+top: -250px;
+left: 180px;
+}
+
+.bottom_1{
+position: relative;
+top: -250px;
+left: 250px;
+}
+
+.letra_2{
+    position: absolute;
+    top: 650px;
+    left: 100px;
+    border: 1px solid #000;
+}
+
+.letra_somos{
+    position: absolute;
+    top: 700px;
+    left: 100px;
+    border: 1px solid #000;
+}
+
+.video_cara{
+    position: relative;
+    width: 320px; 
+    height: 240px;
+    left: 1100px;
+}
+
+.letra_3{
+    position: absolute;
+    border: 1px solid #000;
+    width: 300px;
+    height: 150px;
+    left: 90px;
+    top: 750px;
+
+}

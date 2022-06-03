@@ -1,0 +1,21 @@
+.sede{
+    position: inherit;
+    display: block;
+}
+
+.sede_info{
+    width: 500px;
+    height: 200px;
+    position: relative;
+    top: 0px;
+    left: 130px;
+    
+}
+
+.sede_nosotros{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 2350px;
+    left: 800px;
+}

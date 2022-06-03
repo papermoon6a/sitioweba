@@ -1,0 +1,15 @@
+.fot
+{
+    height: 20px;
+    width: 1500px;
+    background-color: black;
+}
+.copy
+{
+    position: relative;
+    color: white;
+    height: 20px;
+    width: 250px;
+    left: 600px;
+}
+
